@@ -54,7 +54,7 @@ h1 {
 
 
  .menu-item-description{
-    background-color: peru;
+    background-color: #f25b1b;
     margin-right: 25px;
     margin-left: 25px;
     
@@ -62,7 +62,7 @@ h1 {
  }
 
  .menu-item-details {
-    background-color: peru;
+    background-color: #f25b1b;
     color: black;
     margin-top: -10px;
  }
